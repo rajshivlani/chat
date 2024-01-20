@@ -1,0 +1,9 @@
+{
+  "event": {
+    "token": "TOKEN",
+    "expectedAction": "USER_ACTION",
+    "siteKey": "6LdzoEQpAAAAAIQg3dHmwN36Wj-HlQl5iF9TpnwY",
+  }
+}
+
+https://recaptchaenterprise.googleapis.com/v1/projects/rxdh-410117/assessments?key=API_KEY
